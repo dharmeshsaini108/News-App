@@ -1,0 +1,45 @@
+ 
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jennifer Korn",
+            "title": "Zuckerberg unveils Quest 3 as Meta tries to stay ahead in the mixed reality headset game - CNN",
+            "description": "Meta is moving forward in its efforts to dominate the AR world with the new and improved Meta Quest 3. CEO Mark Zuckerberg unveiled the headset at Meta Connect Wednesday.",
+            "url": "https://www.cnn.com/2023/09/27/tech/zuckerberg-meta-quest-3/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230927135303-01-zuckerberg-meta-quest-3.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-28T16:44:00Z",
+            "content": "Meta is moving forward in its efforts to dominate the AR world with the new and improved Meta Quest 3. \r\nUnveiled by CEO Mark Zuckerberg at the companys virtual Meta Connect event Wednesday, the head… [+4719 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Reuters",
+            "title": "Right again, Einstein! Study shows how antimatter responds to gravity - NBC News",
+            "description": "In the world of “Star Trek,” the starship Enterprise zips through space using a warp drive that harnesses antimatter.",
+            "url": "https://www.nbcnews.com/science/science-news/right-einstein-study-shows-antimatter-responds-gravity-rcna117866",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-11/221123-albert-einstein-se-447p-b2102a.jpg",
+            "publishedAt": "2023-09-28T15:56:35Z",
+            "content": "In the world of Star Trek, the starship Enterprise zips through space using a warp drive that harnesses antimatter. Suffice it to say, such technology remains in the realm of science fiction.\r\nBut sc… [+4168 chars]"
+        },{
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "Reuters",
+            "title": "Crisis in Hogwarts ,Hogwarts! a school of magic",
+            "description": "Hogwarts, September 15, 2023: In a shocking turn of events, the infamous dark wizard Lord Voldemort, believed to have been vanquished years ago, orchestrated a daring assault on Hogwarts Castle..",
+            "url": "https://www.nbcnews.com/science/science-news/right-einstein-study-shows-antimatter-responds-gravity-rcna117866",
+            "urlToImage": "https://ibb.co/wKvsNW9",
+            "publishedAt": "2023-09-28T15:56:35Z",
+            "content": " In a chilling resurrection, the sinister Lord Voldemort, his skeletal hand raised in defiance of time itself, spearheaded a nightmarish siege on the sacred grounds of Hogwarts School of Witchcraft and Wizardry."
+        }
+    ]
+}
